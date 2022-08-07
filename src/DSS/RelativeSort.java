@@ -7,6 +7,7 @@ public class RelativeSort {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        int number;
 
         String inputLineFirst = scanner.nextLine();
         String [] firstLine = inputLineFirst.split(" ");

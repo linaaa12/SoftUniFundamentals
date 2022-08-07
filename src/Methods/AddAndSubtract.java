@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class AddAndSubtract {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        int number;
         //Въвеждам 3 числа
         int firstNum = Integer.parseInt(scanner.nextLine());
         int secondNum = Integer.parseInt(scanner.nextLine());

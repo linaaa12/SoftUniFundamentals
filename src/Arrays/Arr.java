@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class Arr {
     public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
+            int number;
 
             String input =scanner.nextLine();
             String [] inputArray = input.split(" ");

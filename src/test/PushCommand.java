@@ -5,4 +5,5 @@ public class PushCommand {
     int a;
     int k;
     int l;
+    int m;
 }

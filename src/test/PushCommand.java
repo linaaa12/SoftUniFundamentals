@@ -1,5 +1,5 @@
 package test;
 
 public class PushCommand {
-    int num;
+    int num = 5;
 }
